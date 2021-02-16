@@ -15,3 +15,6 @@ https://assignment-calculator-ac826.web.app
 
 Assignment (Stopwatch):
 https://assignment-stopwatch-0.web.app
+
+Instagram login:
+https://instagram-login-90b87.web.app
