@@ -24,3 +24,6 @@ https://burney-autos.web.app
 
 ToDo App:
 https://todo-app-fmp.web.app
+
+Loading Animation:
+https://loading-animation.web.app
